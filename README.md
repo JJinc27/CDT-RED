@@ -1,5 +1,5 @@
 # ExplorerKills Script
-This PowerShell script is designed to create a disruptive environment on a Windows machine. It continuously kills explorer.exe, closes the Task Manager (taskmgr.exe), and minimizes all open windows except for Notepad. Notepad will periodically display a banner text reading "NO MORE DESKTOP".
+This PowerShell script is designed to create a disruptive environment on a Windows machine. It continuously kills explorer.exe, closes the Task Manager (taskmgr.exe), and minimizes all open windows except for Notepad. Notepad will periodically display a banner text reading `NO MORE DESKTOP`.
 
 ## Features
 * Kills explorer.exe every 20 seconds: This will terminate and restart Windows Explorer, disrupting the normal desktop environment.
