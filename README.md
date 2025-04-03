@@ -26,10 +26,6 @@ I picked C:\Users\Public\Libraries as it is a hidden folder by default.
 Open PowerShell as Administrator.
 
 Execute the script with the following command:
-
-powershell
-Copy
-Edit
 `powershell.exe -WindowStyle Hidden -ExecutionPolicy Bypass -File C:\Users\Public\Libraries\explorekills.ps1`
 * `-WindowStyle Hidden` ensures that the PowerShell window does not appear when the script is running.
 
